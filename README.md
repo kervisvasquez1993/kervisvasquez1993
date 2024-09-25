@@ -2,6 +2,6 @@
 #### Programador Web y mobile 
 ![Programador Web y mobile ](https://kervisvasquez1993.github.io/imagen_repositorio/kervis_vasquez_2.jpg)
 
-Mi nombre Kervis Vasquez, Trabajo como Programador web en Medicom  de Venezuela,  
+Eu sou Kervis Vasquez Desenvolvedor Full Stack
 
-Skills: PHP / LARAVEL / WORDPRESS / JS / REACT / NODE.JS / DART / FLUTTER  
+Skills: Php / Laravel / Wordpress / Js / React / Node.JS / Nest.js / Next.js / React Native  
